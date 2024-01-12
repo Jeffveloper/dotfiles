@@ -1,0 +1,7 @@
+@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
+
+window {
+	width: 420px;
+	padding: 10px;
+}
+
